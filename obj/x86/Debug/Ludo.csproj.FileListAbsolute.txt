@@ -1,0 +1,5 @@
+C:\Users\Emil\Documents\Projects\Ludo\Ludo\bin\Debug\Ludo.exe
+C:\Users\Emil\Documents\Projects\Ludo\Ludo\bin\Debug\Ludo.pdb
+C:\Users\Emil\Documents\Projects\Ludo\Ludo\obj\x86\Debug\Ludo.exe
+C:\Users\Emil\Documents\Projects\Ludo\Ludo\obj\x86\Debug\Ludo.pdb
+C:\Users\Emil\Documents\Projects\Ludo\Ludo\obj\x86\Debug\Ludo.csprojResolveAssemblyReference.cache
